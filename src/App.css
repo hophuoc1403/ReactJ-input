@@ -1,0 +1,10 @@
+.box {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(
+    to right bottom,
+    rgb(85, 85, 233),
+    gray,
+    rgb(65, 220, 65)
+  );
+}
